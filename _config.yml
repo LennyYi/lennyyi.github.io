@@ -1,0 +1,8 @@
+title: Lennyyi.GitHub.io
+description: 个人博客网站项目
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
