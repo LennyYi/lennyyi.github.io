@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
+<br />
+<br />
+{% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
+<br />
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2119875"></script>
+<!-- UY END -->
+<br />
+<span><img src="http://ogu9js0qs.bkt.clouddn.com/weiba-grey.png"></span>
+<span><h6><img src="http://ogu9js0qs.bkt.clouddn.com/carefully02.jpg">&nbsp;&nbsp;&nbsp;未经作者许可，任何人不得摘编、转载。需要转载或者摘编的请联系作者。对未经许可擅自使用者,保留追究其法律责任的权利。</h6></span>

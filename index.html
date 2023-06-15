@@ -1,19 +1,20 @@
+---
+layout: default
+---
 
 <div class="home">
-  <h3>
-    <a class="post-link" href=""></a>&nbsp;&#45;&nbsp;<small><span class="post-meta"></span>     
-    </small>
-  </h3>
-  <h1>规划中</h1>
-  <div>
-  </h3>
-    <h5>系统构思规划中</h5>
-  </div>
-  <div>
-    <h1>规划中</h1>
-  </div>
-  <div>
-    <h2>思考中</h2>
-    <ul>思考中</ul>
-  </div>
+
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>&nbsp;&#45;&nbsp;<small><span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>     
+          </small>
+        </h3>
+         <div class="content">{{ post.excerpt | strip_html | trip_newlines | truncate:170 }}</div>
+      </li>
+
+    {% endfor %}
+  </ul>
 </div>
