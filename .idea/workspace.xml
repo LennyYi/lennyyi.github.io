@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="facddfb7-0f4b-493e-b4b0-37d82ef32315" name="更改" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lennyyi.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-05-07-documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-06-09-sample.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-06-10-elements.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-06-12-usage.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-06-17-test.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-07-07-features.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-07-08-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-18-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-19-Thinking-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-19-code-02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-19-github-guide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-19-i-have-idea-01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-20-flower-in-concrete.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-20-i-have-idea-dream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-20-i-want-to-saying-sohuchangyan.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-21-Thinking-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-21-Thinking-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-21-i-make-a-novel-in-mydream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-21-java-nio-io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-11-28-Thinking-chadao.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-12-02-Thinking-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2016-12-30-echarts-ajax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-01-01-Thinking-for-sister.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-01-07-ADF-develop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-01-07-future-line.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-01-07-value-mone.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-1-8-future-notebook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-1-8-value-money.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-2-5-fullcalendar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-2-5-reading-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-2-5-reading-notes2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-2-5-reading-notes3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2017-2-5-reading-notes4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/3d-menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category_archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/monthly_archive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-18-code-javascript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-19-javacode-fileStrReplace.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-21-java-nio-io.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-12-30-echarts-ajax.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-1-7-adf-exp.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-1-8-javascript-read-book2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-2-5-fullcalendar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-2-5-reading-notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-2-5-reading-notes2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-2-5-reading-notes3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-2-5-reading-notes4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/gatok-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/gatok.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/gatok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/webjeda-gatok-jekyll-theme-screenshot-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/webjeda-gatok-jekyll-theme-screenshot-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/webjeda-gatok-jekyll-theme-screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatok/images/aayke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/aayke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banna-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/zip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascripts/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/meny.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/about_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/code_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/first_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/future_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/hippocrene_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/saying.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/thinking_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/utils_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/github-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/stylesheet.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RFBKSxZCGy1WFylhIOaxzvDFxr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/github_project/lennyyi.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github_project\lennyyi.github.io" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="facddfb7-0f4b-493e-b4b0-37d82ef32315" name="更改" comment="" />
+      <created>1686835884338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686835884338</updated>
+      <workItem from="1686835885597" duration="722000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1686835982941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686835982941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Gh-pages&quot;&#10;&#10;This reverts commit d989e06e">
+      <created>1686836103437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686836103437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试">
+      <created>1686836223750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686836223750</updated>
+    </task>
+    <task id="LOCAL-00004" summary="测试">
+      <created>1686836291504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686836291504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c0834f93-9795-4f7a-b31d-3e56c1b15da6" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="c0834f93-9795-4f7a-b31d-3e56c1b15da6">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Gh-pages&quot;&#10;&#10;This reverts commit d989e06e" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+  </component>
+</project>
